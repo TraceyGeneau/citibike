@@ -11,6 +11,7 @@ The three main start stations included in descending order:</br>
 1)	The Grove Street Path (21 639 riders)
 2)	Hoboken Terminal – River St & Hudson Place (19 045)
 3)	South Waterfront Walkway – Sinatra Dr & 1st St (15 954)</br>
+</br>
 Coincidentally, the same three stations were the most popular destinations of the riders from New Jersey and Hoboken.</br>   
 1)	The Grove Street Path (21 185 riders)
 2)	Hoboken Terminal – River St & Hudson Place (18 758)
