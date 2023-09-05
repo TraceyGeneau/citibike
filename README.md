@@ -35,9 +35,7 @@ On a monthly basis, steady increase in riders occurred month from March to July 
 
 For the riders by day of the week the following was observed:
 
-<center>
-![](https://github.com/TraceyGeneau/citibike/blob/main/images/Stations.png)
-</center>
+![](https://github.com/TraceyGeneau/citibike/blob/main/images/high%20low%20table.png)
 
 Based on the data, Thursday tends to be one of the most popular days whereas Saturday and Monday tend to be the days with less riders.
 
