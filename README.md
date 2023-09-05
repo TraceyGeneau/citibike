@@ -1,20 +1,20 @@
 # citibike
 
 As a result of a busy year, the Citibike program for New York City requested an analysis of data from its bike stations in various areas. I was tasked with focusing on the New Jersey and Hoboken stations from March to July 2023. Unfortunately, data for August 2023 was not available at the time of the analysis. However, we can update the visualizations once that data becomes available. For now, our analysis will remain focused on the period from March 2023 to July 2023.  It is also important to note that all riders were counted by ride ID and therefore all originated from New Jersey & Hoboken regardless of their destination.
-The main areas of focus were:
+The main areas of focus were:</br>
 1)	A visual of the stations used by riders to start and end their journeys.
 2)	A breakdown of the use of the stations by riders.
 3)	The distance and duration of each of the rides based on riders and mode of transportation.
-4)	The changes observed monthly.
-Since the focus of the starting stations were those in New Jersey and Hoboken, the bulk of the starting station markers are found obviously in those areas.  The interesting thing to note is that there are many end locations that occurred in New York city.  Meaning riders are going the distance on their bikes!  All the starting and ending stations can be found on the interactive Stations Dashboard.
-The three main start stations included in descending order:
+4)	The changes observed monthly.</br>
+Since the focus of the starting stations were those in New Jersey and Hoboken, the bulk of the starting station markers are found obviously in those areas.  The interesting thing to note is that there are many end locations that occurred in New York city.  Meaning riders are going the distance on their bikes!  All the starting and ending stations can be found on the interactive Stations Dashboard.</br>
+The three main start stations included in descending order:</br>
 1)	The Grove Street Path (21 639 riders)
 2)	Hoboken Terminal – River St & Hudson Place (19 045)
-3)	South Waterfront Walkway – Sinatra Dr & 1st St (15 954)
-Coincidentally, the same three stations were the most popular destinations of the riders from New Jersey and Hoboken.   
-4)	The Grove Street Path (21 185 riders)
-5)	Hoboken Terminal – River St & Hudson Place (18 758)
-6)	South Waterfront Walkway – Sinatra Dr & 1st St (15 945)
+3)	South Waterfront Walkway – Sinatra Dr & 1st St (15 954)</br>
+Coincidentally, the same three stations were the most popular destinations of the riders from New Jersey and Hoboken.</br>   
+1)	The Grove Street Path (21 185 riders)
+2)	Hoboken Terminal – River St & Hudson Place (18 758)
+3)	South Waterfront Walkway – Sinatra Dr & 1st St (15 945)</br>
 The detailed Top 10 Bubble Charts for starting stations and ending stations can be found on the Destinations Dashboard.  A complete listing of the start stations and ridership per station can also be found there.  Since our focus is on the New Jersey and Hoboken stations, the end station results were not listed individually as they contain New York City as well.  All riders are also covered under the start station as they are classified by their ride ID number.
 A chart representing the Top 20 Starting and Ending points is also presented on the dashboard to indicate which paths were frequented most often.  For example, riders that embarked at Hoboken Terminal – Hudson Street and Hudson place and ended their journey at Hoboken Ave and Monmouth Street were the highest frequented path with 2356 Riders.  
 On average, members, and non-members, regardless of bike type seemed to prefer to remain under 2km for a trip distance.  Where the average duration for members was on average half that of casual (non member) riders.  
