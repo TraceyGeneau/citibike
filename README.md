@@ -8,6 +8,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 A link to my Citibike Tableau is here:
 
+The files were too large to upload to GitHub but the JC files were downloaded from the Citibike site https://s3.amazonaws.com/tripdata/index.html.  The image below indicates the files used as well as the new bike_2023 file that was created with pandas.  
+
 
 
 ![](https://github.com/TraceyGeneau/citibike/blob/main/images/1200px-Citi_Bike_logo.jpg)
